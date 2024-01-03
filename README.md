@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KeyKatyu
-- 👀 I’m interested in new technologies, coding and cyber security.
+- 👀 I’m interested in new technologies and coding (especially in JAVA).
 - 💞️ I’m looking to collaborate on Minecraft development projects.
 - 📫 How to reach me : Discord or Twitter.
 
